@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "affiliate-products-api",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "affiliate-products-db",
+      "database_id": "3857e80d-5386-4866-982b-d611ebce1855"
+    }
+  ]
+}
